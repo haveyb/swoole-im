@@ -8,7 +8,7 @@ var config = {
 };
 ```
 
-3、执行 `php webim_server.php` 运行起服务端
+3、执行 `php im_server.php` 运行起服务端
 
 4、浏览器访问 http://tt.haveyb.com/im/public/index.html
 
