@@ -10,7 +10,7 @@ var config = {
 
 3、执行 `php webim_server.php` 运行起服务端
 
-4、浏览器访问 http://tt.haveyb.com/im/webim/public/index.html
+4、浏览器访问 http://tt.haveyb.com/im/public/index.html
 
 5、演示效果
 
