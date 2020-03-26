@@ -1,0 +1,94 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f341001cbe73e79e6ca2bce7838ab05b",
+    "packages": [
+        {
+            "name": "haveyb/redis-helper",
+            "version": "v1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/haveyb/redis-helper.git",
+                "reference": "96de9325ebdfe6bad26105cb39ed839b3a590e1a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/haveyb/redis-helper/zipball/96de9325ebdfe6bad26105cb39ed839b3a590e1a",
+                "reference": "96de9325ebdfe6bad26105cb39ed839b3a590e1a",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "php": ">=7.1"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "haveyb\\RedisHelper\\": "./src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "haveyb",
+                    "email": "haveyb@163.com"
+                }
+            ],
+            "description": "PHP使用Redis的快速上手composer包",
+            "time": "2020-03-10T08:15:39+00:00"
+        },
+        {
+            "name": "swoft/swoole-ide-helper",
+            "version": "v4.4.8",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/swoft-cloud/swoole-ide-helper.git",
+                "reference": "dfbe372cca6baccd362bc276aa07c5d65b2c1b36"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/swoft-cloud/swoole-ide-helper/zipball/dfbe372cca6baccd362bc276aa07c5d65b2c1b36",
+                "reference": "dfbe372cca6baccd362bc276aa07c5d65b2c1b36",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "description": "IDE helper for Swoft and Swoole",
+            "keywords": [
+                "ide-helper",
+                "php",
+                "swoft",
+                "swoole"
+            ],
+            "time": "2019-10-17T09:54:14+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
