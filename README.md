@@ -15,3 +15,6 @@ var config = {
 5、演示效果
 
 ![](./public/images/example.png)
+
+6、原项目地址：https://github.com/moell-peng/webim
+
